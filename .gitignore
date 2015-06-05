@@ -22,3 +22,7 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+sails
+conf/runtime.conf
+log/*
